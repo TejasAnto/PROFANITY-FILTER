@@ -4,8 +4,8 @@ A profanity filter that uses sentiment analysis and toxicity detection to intell
 # A Python tool that intelligently filters profanity using:
 
   >> Word censoring -> (replaces swear words with ****)
-  >> Context detection -> (allows casual swearing, blocks true toxicity)
-  >> Sentiment analysis -> (VADER) + Toxicity detection (RoBERTa-HateSpeech)
+  /n >> Context detection -> (allows casual swearing, blocks true toxicity)
+  /n >> Sentiment analysis -> (VADER) + Toxicity detection (RoBERTa-HateSpeech)
 
 # Key Features:
   >> Real-time input processing
